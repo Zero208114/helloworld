@@ -2,5 +2,7 @@
 
 int main()
 {
-	printf("hello,C++\n");
+	printf("hello,\n");
+	printf("world"\n);
+	printf("\n");
 }
