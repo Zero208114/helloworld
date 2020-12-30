@@ -1,6 +1,6 @@
-﻿#include stdio
+﻿#include <stdio.h>
 
-int mian
+int main()
 {
-	printf ("hello,wrold!\n.")
+	printf("hello,wrold!\n");
 }
