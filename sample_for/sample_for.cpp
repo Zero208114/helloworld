@@ -8,9 +8,9 @@ int main()
 
 	int n;
 	n = 0;
-	while (n <= 4);
+	while (n <= 4) {
 		printf("hello world\n");
 		n = n + 1;
-
+	}
 }
 
