@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample_for", "sample_for\sa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample_symbol", "sample_symbol\sample_symbol.vcxproj", "{D36DD903-B7BC-453B-9A29-FA59E2FAF1CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample_filecopy", "sample_filecopy\sample_filecopy.vcxproj", "{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D36DD903-B7BC-453B-9A29-FA59E2FAF1CA}.Release|x64.Build.0 = Release|x64
 		{D36DD903-B7BC-453B-9A29-FA59E2FAF1CA}.Release|x86.ActiveCfg = Release|Win32
 		{D36DD903-B7BC-453B-9A29-FA59E2FAF1CA}.Release|x86.Build.0 = Release|Win32
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Debug|x64.ActiveCfg = Debug|x64
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Debug|x64.Build.0 = Debug|x64
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Debug|x86.Build.0 = Debug|Win32
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Release|x64.ActiveCfg = Release|x64
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Release|x64.Build.0 = Release|x64
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Release|x86.ActiveCfg = Release|Win32
+		{7779B95C-2069-4D7A-BC26-47E6EDFBC39F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
