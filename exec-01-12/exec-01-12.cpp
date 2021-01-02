@@ -6,10 +6,10 @@ int main()
 	int pre_char_is_space = 0;
 
 	while ((c = getchar()) != EOF) {
-		if (c == ' ') {
+		if (c == ' ' || c == '\t' || c == '\n') {
 			if (pre_char_is_space == 0)
 			{
-				putchar(' ');
+				putchar('\n');
 				pre_char_is_space = 1;
 			}
 		}
