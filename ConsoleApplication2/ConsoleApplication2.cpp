@@ -2,11 +2,15 @@
 
 int  main()
 {
-	int c, nl;
+	int c, nl,nm,nc;
 
-	nl = 0;
+	nl = 0,nm=0,nc=0;
 	while ((c = getchar()) != EOF)
-		if (c == '\n',)
+		if (c == '\n')
 			++nl;
-	printf("%d\n",nl);
+	if (c == '\t')
+		++nm;
+	if (c == ' ')
+		++nc;
+	printf("%d\t%d\t%d\n ",nl,nm,nc);
 }
