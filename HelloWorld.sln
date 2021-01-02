@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exec-01-10", "exec-01-10\ex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample_wordcount", "sample_wordcount\sample_wordcount.vcxproj", "{42304BA9-A63D-4CD3-917D-5AC7AF99D0ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exec-01-12", "exec-01-12\exec-01-12.vcxproj", "{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{42304BA9-A63D-4CD3-917D-5AC7AF99D0ED}.Release|x64.Build.0 = Release|x64
 		{42304BA9-A63D-4CD3-917D-5AC7AF99D0ED}.Release|x86.ActiveCfg = Release|Win32
 		{42304BA9-A63D-4CD3-917D-5AC7AF99D0ED}.Release|x86.Build.0 = Release|Win32
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Debug|x64.ActiveCfg = Debug|x64
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Debug|x64.Build.0 = Debug|x64
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Debug|x86.Build.0 = Debug|Win32
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Release|x64.ActiveCfg = Release|x64
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Release|x64.Build.0 = Release|x64
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Release|x86.ActiveCfg = Release|Win32
+		{BEAD7A3F-2250-47A3-A659-A1D87815E9BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
