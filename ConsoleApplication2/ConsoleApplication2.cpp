@@ -8,9 +8,9 @@ int  main()
 	while ((c = getchar()) != EOF) {
 		if (c == '\n')
 			++nl;
-		if (c == '\t')
+		else if (c == '\t')
 			++nm;
-		if (c == ' ')
+		else if (c == ' ')
 			++nc;
 	}
 	printf("%d\t%d\t%d\n ", nl, nm, nc);
